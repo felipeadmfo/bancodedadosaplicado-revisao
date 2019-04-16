@@ -1,1 +1,1 @@
-#Banco de dados aplicado - Revis∆o 
+# Banco de dados aplicado - Revis√£o 
